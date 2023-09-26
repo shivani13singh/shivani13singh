@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivani singh
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning full stack development and cyber security
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me (mail: shivani.singh130812@gmail.com)
 
